@@ -1,0 +1,40 @@
+* {
+font-family: arial
+}
+
+li {
+	display: inline-block;
+	float: right;
+	padding: 7.5px;
+
+	font-size: 12px;
+}
+
+.signin {
+	color: white;
+	background-color: #6c6cff;
+	border-radius: 5px;
+}
+
+#apps {
+	width: 15px;
+	height: 15px;
+}
+
+.container {
+	display:block;
+	text-align: center;
+	padding-top: 125px;
+	clear: both;
+}
+
+#searchbar {
+	width: 600px;
+	height: 40px;
+}
+
+.searchbtn {
+	width: 150px;
+	height: 35px;
+	font-size: 16px;
+}
